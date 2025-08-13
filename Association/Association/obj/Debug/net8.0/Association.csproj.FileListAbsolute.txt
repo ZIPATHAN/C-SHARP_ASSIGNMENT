@@ -1,0 +1,14 @@
+E:\TechRel\dot_net\Association\Association\bin\Debug\net8.0\Association.exe
+E:\TechRel\dot_net\Association\Association\bin\Debug\net8.0\Association.deps.json
+E:\TechRel\dot_net\Association\Association\bin\Debug\net8.0\Association.runtimeconfig.json
+E:\TechRel\dot_net\Association\Association\bin\Debug\net8.0\Association.dll
+E:\TechRel\dot_net\Association\Association\bin\Debug\net8.0\Association.pdb
+E:\TechRel\dot_net\Association\Association\obj\Debug\net8.0\Association.GeneratedMSBuildEditorConfig.editorconfig
+E:\TechRel\dot_net\Association\Association\obj\Debug\net8.0\Association.AssemblyInfoInputs.cache
+E:\TechRel\dot_net\Association\Association\obj\Debug\net8.0\Association.AssemblyInfo.cs
+E:\TechRel\dot_net\Association\Association\obj\Debug\net8.0\Association.csproj.CoreCompileInputs.cache
+E:\TechRel\dot_net\Association\Association\obj\Debug\net8.0\Association.dll
+E:\TechRel\dot_net\Association\Association\obj\Debug\net8.0\refint\Association.dll
+E:\TechRel\dot_net\Association\Association\obj\Debug\net8.0\Association.pdb
+E:\TechRel\dot_net\Association\Association\obj\Debug\net8.0\Association.genruntimeconfig.cache
+E:\TechRel\dot_net\Association\Association\obj\Debug\net8.0\ref\Association.dll
